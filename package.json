@@ -1,0 +1,21 @@
+{
+  "name": "holding-page-template",
+  "version": "0.0.0",
+  "description": "Rapidly create holding pages for products, events and businesses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xovered/holdingpage-template.git"
+  },
+  "author": "Shaun Dowling",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/xovered/holdingpage-template/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
